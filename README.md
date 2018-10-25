@@ -1,5 +1,5 @@
 # wzj.github.io
-个人博客：记录学习，思考，总结。
+个人博客：Stones form other hills may serve to polish the jade of this one。
 
 # 2018
   ## Learn React
