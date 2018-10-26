@@ -1,5 +1,5 @@
 # wzj.github.io
-个人博客：Stones form other hills may serve to polish the jade of this one。
+Stones form other hills may serve to polish the jade of this one。
 
 # 2018
   ## Learn React
