@@ -12,5 +12,6 @@ Stones form other hills may serve to polish the jade of this one。
 [11/8  关于Vue中生命周期函数的总结](https://github.com/SkyWblack/wzj.github.io/issues/4)
   
   ## Learn Node
+ [11/9  阿里云Windows远程连接出现身份验证错误，要求的函数不正确”的报错。](https://blog.csdn.net/qq_23944441/article/details/80569778)
   ## My Thinking
  
