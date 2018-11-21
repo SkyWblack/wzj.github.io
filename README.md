@@ -2,6 +2,9 @@
 Stones form other hills may serve to polish the jade of this one。
 
 # 2018
+  ## Learn ES
+  [10/26  10分钟学会ES7+ES8](https://www.cnblogs.com/zhuanzhuanfe/p/7493433.html)
+  
   ## Learn React
 [10/26  使用vm布局](https://github.com/gaohan1994/react-vw-layout)
 
